@@ -51,26 +51,26 @@ export default class navbar extends Component {
                 className="navbar-link nav-item is-arrowless"
                 activeClassName="is-active"
               >
-                Home
+                Start
               </Link>
               <Link
                 to="/page-2"
                 activeClassName="is-active"
                 className="navbar-link nav-item is-arrowless"
               >
-                Page 2
+                Details
               </Link>
               {/* Github download button */}
               <NavbarItem>
                 <Button
-                  href="https://github.com/zlutfi/gatsby-starter-bloomer"
+                  href="mailto:wohneninueberlingen@aol.com?subject=Immobilienanfrage"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="is-rounded"
                   isSize="small"
                 >
-                  <span>Download on Github</span>
-                  <Icon className="fab fa-github fa-sm" />
+                  <span>Jetzt anfragen</span>
+                  <Icon className="fas fa-envelope fa-sm" />
                 </Button>
               </NavbarItem>
             </NavbarEnd>

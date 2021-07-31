@@ -11,11 +11,11 @@ const MainFooter = () => {
             Made with{" "}
             <Icon hasTextColor="danger" className="fa fa-heart"></Icon> by{" "}
             <a
-              href="https://zlutfi.com"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
-              ZLI
+              JR
             </a>
           </p>
         </Content>

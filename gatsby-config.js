@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby + Bloomer`,
-    description: `Wohnen in Überlingen `,
-    author: `@zlidev`,
+    title: `Wohnen in Überlingen`,
+    description: `Wohnen in Überlingen`,
+    author: `wohneninueberlingen@aol.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

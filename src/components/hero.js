@@ -24,16 +24,21 @@ export default class hero extends Component {
                 <Button
                   isColor="white"
                   isOutlined
-                  href="https://github.com/zlutfi/gatsby-starter-bloomer"
+                  href="mailto:wohneninueberlingen@aol.com?subject=Immobilienanfrage"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="is-rounded"
                   id="btn-spaced"
                 >
                   {/* Call to action button icon */}
-                  <span>Download Now</span>
-                  <Icon className="fab fa-github fa-sm" />
+                  <span>Jetzt anfragen</span>
+                  <Icon className="fas fa-envelope fa-sm" />
                 </Button>
+                <p>- Nellenbachstraße, 88662 Überlingen/Bodensee</p>                
+                <p>- 3,5 Zimmer</p>
+                <p>- 126,00 m² Wohnfläche</p>
+                <p>- Kaufpreis: 855.000 €</p>
+
               </Column>
             </Columns>
           </Container>

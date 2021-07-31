@@ -16,19 +16,46 @@ import SEO from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Wohnen in Überlingen - Details" />
+    <Section className="has-background-white">
+    <Container>
+    <Title isSpaced>Fotos</Title>
+      <Columns>
+        <Column isSize="1/2">
+          <Subtitle>Badezimmer mit Badewanne, Dusche und WC</Subtitle>
+          <img class="image" src="/static/wiu-bad.jpg"></img>
+        </Column>
+        <Column isSize="1/2">
+          <Subtitle>Dusche und Badewanne</Subtitle>
+          <img class="image" src="/static/wiu-bad02.jpg"></img>
+        </Column>
+        </Columns>
+
+        </Container>
+      </Section>
     <Section className="has-background-white">
       <Container>
+
         <Columns>
           <Column>
             {/* Page title */}
-            <Title isSpaced>Page 2</Title>
-            <Subtitle>This is the second page.</Subtitle>
-            {/* Back to homepage button */}
+            <Title isSpaced>Daten</Title>
+
+
+
+            <div class="box">
+            <Subtitle>Grundriss</Subtitle>
+            <img class="image" src="/static/gartengeschoss.jpg"></img>
+            </div>
+
+            <div class="box">
+            <Subtitle>Energieausweis</Subtitle>
+            <img class="image" src="/static/energieausweis.png"></img>
+            </div>
             <Link to="/">
               <Button isColor="primary" className="is-rounded" id="is-spaced">
                 <Icon className="fa fa-arrow-left fa-sm" />
-                <span>Go back to the homepage</span>
+                <span>Zurück zur Startseite</span>
               </Button>
             </Link>
           </Column>
