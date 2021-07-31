@@ -96,12 +96,6 @@ Mieter und Eigentümer zum Sommerfest und genießen die
  Wohngemeinschaft.</p>
 
 
-
-                <div class="notification is-primary">
-                  <strong>Kontakt:</strong> <a href="mailto:wohneninueberlingen@aol.com">wohneninueberlingen@aol.com</a> | Tel. +49 162 2186362
-                  </div>
-
-
               <p>
                 <Link to="/page-2/">
                   <Button
@@ -129,6 +123,18 @@ Mieter und Eigentümer zum Sommerfest und genießen die
 
           </Column>
           </Columns>
+
+          <section class="section has-large-spacing-bottom has-large-spacing-top is-centered is-full-width has-background-primary">
+    <div class="columns is-multiline ">
+
+<div class="column has-margin-auto has-text-centered">
+        <h3 class="title is-size-3 is-size-3-tablet has-text-white">Lassen sie sich diese Gelegenheit nicht entgehen</h3>
+            <div class="subtitle is-size-5 is-size-5-tablet has-text-white"><p><span>Fragen sie jetzt dieses einzigartige Immobilie an.</span></p></div>
+            <p class="has-text-white"><strong class="has-text-white">Kontakt:</strong> <a href="mailto:wohneninueberlingen@aol.com" class="has-text-white">wohneninueberlingen@aol.com</a> | Tel. +49 162 2186362</p>
+       
+</div>
+    </div>
+    </section>
 
           {/* Features section begins */}
         </Container>
