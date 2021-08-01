@@ -20,6 +20,33 @@ const SecondPage = () => (
     <Section className="has-background-white">
     <Container>
     <Title isSpaced>Fotos</Title>
+
+    
+    <Columns>
+        <Column isSize="1/2">
+          <Subtitle>Schlafzimmer 1</Subtitle>
+          <img class="image" src="/static/wiu-schlafen1.jpg"></img>
+        </Column>
+        <Column isSize="1/2">
+          <Subtitle>Schlafzimmer 2</Subtitle>
+          <img class="image" src="/static/wiu-schlafen2.jpg"></img>
+        </Column>
+      </Columns>
+
+      <Columns>
+        <Column isSize="1/2">
+          <Subtitle>Wohnzimmer mit Küche</Subtitle>
+          <img class="image" src="/static/wiu-wohnzimmer.jpg"></img>
+          <br/>
+          <Subtitle>Lichtdurchflutetes Wohnzimmer</Subtitle>
+          <img class="image" src="/static/wiu01.jpg"></img>          
+        </Column>
+        <Column isSize="1/2">
+          <Subtitle>Moderne offene Küche mit Bar</Subtitle>
+          <img class="image" src="/static/wiu-kueche01.jpg"></img>
+        </Column>
+      </Columns>      
+
       <Columns>
         <Column isSize="1/2">
           <Subtitle>Badezimmer mit Badewanne, Dusche und WC</Subtitle>
@@ -30,6 +57,52 @@ const SecondPage = () => (
           <img class="image" src="/static/wiu-bad02.jpg"></img>
         </Column>
         </Columns>
+
+        
+        <Columns>
+        <Column isSize="1/3">
+          <Subtitle>Genießen Sie den schönen Garten</Subtitle>
+          <img class="image" src="/static/wiu-garten.jpg"></img>
+        </Column>
+        <Column isSize="1/3">
+          <Subtitle>Der Zeppelin über ihrem Garten</Subtitle>
+          <img class="image" src="/static/wiu-zeppelin.jpg"></img>
+        </Column>
+        <Column isSize="1/3">
+          <Subtitle>Hausansicht aus dem Garten</Subtitle>
+          <img class="image" src="/static/wiu-gartensicht.jpg"></img>
+        </Column>        
+        </Columns>        
+
+        <Columns>
+        <Column isSize="1/2">
+          <Subtitle>Die Stadt Überlingen (Sicht vom See)</Subtitle>
+          <img class="image" src="/static/wiu-stadt.jpg"></img>
+        </Column>
+        <Column isSize="1/2">
+          <Subtitle>Fußweg mit Seesicht von der Wohnung in die Stadt</Subtitle>
+          <img class="image" src="/static/wiu-fussweg.jpg"></img>
+        </Column>
+        </Columns>      
+
+        <Columns>
+        <Column isSize="1/1">
+          <Subtitle>Lage (Sicht vom Hausdach) </Subtitle>
+          <img class="image" src="/static/wiu-lage.jpg"></img>
+        </Column>
+        </Columns>          
+
+        <Columns>
+        <Column isSize="1/2">
+          <Subtitle>Malerisches Überlingen</Subtitle>
+          <img class="image" src="/static/ueb.jpg"></img>
+        </Column>
+        <Column isSize="1/2">
+          <Subtitle>Uferpromenade</Subtitle>
+          <img class="image" src="/static/ueb2.jpg"></img>
+        </Column>
+        </Columns>                   
+
 
         </Container>
       </Section>
@@ -62,6 +135,20 @@ const SecondPage = () => (
         </Columns>
       </Container>
     </Section>
+
+    <section class="section has-large-spacing-bottom has-large-spacing-top is-centered is-full-width has-background-primary">
+    <div class="columns is-multiline ">
+
+<div class="column has-margin-auto has-text-centered">
+        <h3 class="title is-size-3 is-size-3-tablet has-text-white">Lassen sie sich diese Gelegenheit nicht entgehen</h3>
+            <div class="subtitle is-size-5 is-size-5-tablet has-text-white"><p><span>Fragen sie jetzt dieses einzigartige Immobilie an.</span></p></div>
+            <p class="has-text-white"><strong class="has-text-white">Kontakt:</strong> <a href="mailto:wohneninueberlingen@aol.com" class="has-text-white">wohneninueberlingen@aol.com</a> | Tel. +49 162 2186362</p>
+       
+</div>
+    </div>
+    </section>
+
+
   </Layout>
 )
 

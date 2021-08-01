@@ -46,9 +46,15 @@ Bad und WC per Fußbodenheizung. Schlaf- und Zweitzimmer
 Besichtigung vor. Das Hausgeld beläuft sich auf derzeit 318,00 €
 im Monat.</p>
 
+
+<div class="notification is-primary">
 <p>Eine Besonderheit ist, dass es nicht nur eine große
 Terrasse gibt, sondern auch ein <strong>Sondernutzungsrecht für den liebevoll angelegten
-Garten und Rasenfläche</strong>, den man zur Erholung nutzen kann.</p>
+Garten und Rasenfläche</strong>, den Sie zur Erholung nutzen können.</p>
+
+</div>
+
+
 <p>In der Innenausstattung ist eine moderne Einbauküche mit inbegriffen.</p>
 <p>Zur Wohnung gehören außerdem noch ein Abstellraum und ein
 Keller mit praktischem Stauraum.</p>
@@ -77,7 +83,10 @@ Freizeitaktivitäten ein.
 Seezugang und verfügt über eine der schönsten Promenaden
 am Bodensee. 2021 ist Überlingen Gastgeber der
 Landesgartenschau mit vielen attraktiven Orten.
-Sie wohnen da wo andere Urlaub machen.</p>
+</p>
+
+<div class="notification is-primary">Sie wohnen, wo andere Urlaub machen.</div>
+
 
 <Subtitle>So leben Sie in Überlingen</Subtitle>
 <p>Die Eigentumswohnung eignet sich für Familien mit Bedarf an
@@ -117,7 +126,7 @@ Mieter und Eigentümer zum Sommerfest und genießen die
 
           <div class="box"><img class="image" src="/static/wiu01.jpg"></img></div>
           <div class="box"><img class="image" src="/static/wiu03.jpg"></img></div>
-          <div class="box"><img class="image" src="/static/wiu02.jpg"></img></div>
+          <div class="box"><img class="image" src="/static/wiu-terrasse.jpg"></img></div>
           <div class="box"><img class="image" src="/static/wiu04.jpg"></img> </div>                            
 
 
