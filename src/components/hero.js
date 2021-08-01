@@ -37,10 +37,9 @@ export default class hero extends Component {
                 <p>- 88662 Überlingen/Bodensee</p>                
                 <p>- 3,5 Zimmer</p>
                 <p>- 126,00 m² Wohnfläche</p>
-                <p>- inklusive 2 Tiefgaragen-Stellplätze</p>
+                <p>- Inklusive 2 Tiefgaragen-Stellplätze</p>
                 <p>- Kaufpreis: 855.000 €</p>
                 <p>- Provisionsfrei nur von privat an privat</p>
-
 
               </Column>
             </Columns>

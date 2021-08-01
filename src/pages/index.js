@@ -48,10 +48,7 @@ im Monat.</p>
 
 
 <div class="notification is-primary">
-<p>Eine Besonderheit ist, dass es nicht nur eine große
-Terrasse gibt, sondern auch ein <strong>Sondernutzungsrecht für den liebevoll angelegten
-Garten und Rasenfläche</strong>, den Sie zur Erholung nutzen können.</p>
-
+<p>Das Highlight der Wohnung ist eine große Terrasse mit liebevoll angelegtem Garten und Rasenfläche. Sie haben hier Sondernutzungsrecht</p>
 </div>
 
 
