@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://haystack-production-storage-us-east-1.s3.amazonaws.com/xwilpfknzrwor41char6511dd53s?response-content-disposition=inline%3B%20filename%3D%22image.jpeg%22%3B%20filename%2A%3DUTF-8%27%27image.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ742G4ISOGL5I25G%2F20210801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210801T095345Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=deed79c34cf4d374edb5318b8870456051345f39c5b69c2e678942b6e915127d
