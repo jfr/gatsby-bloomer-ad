@@ -134,8 +134,8 @@ Mieter und Eigentümer zum Sommerfest und genießen die
     <div class="columns is-multiline ">
 
 <div class="column has-margin-auto has-text-centered">
-        <h3 class="title is-size-3 is-size-3-tablet has-text-white">Lassen sie sich diese Gelegenheit nicht entgehen</h3>
-            <div class="subtitle is-size-5 is-size-5-tablet has-text-white"><p><span>Fragen sie jetzt dieses einzigartige Immobilie an.</span></p></div>
+        <h3 class="title is-size-3 is-size-3-tablet has-text-white">Lassen Sie sich diese Gelegenheit nicht entgehen!</h3>
+            <div class="subtitle is-size-5 is-size-5-tablet has-text-white"><p><span>Fragen Sie jetzt diese einzigartige Immobilie an.</span></p></div>
             <p class="has-text-white"><strong class="has-text-white">Kontakt:</strong> <a href="mailto:wohneninueberlingen@aol.com" class="has-text-white">wohneninueberlingen@aol.com</a> | Tel. +49 162 2186362</p>
        
 </div>
